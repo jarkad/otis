@@ -11,7 +11,7 @@
     'use strict';
 
     if (!window.wpProQuizInitList) {
-        return;
+        return
     }
 
     // Check right answers
